@@ -147,8 +147,4 @@ Businesses operating across multiple regions need a centralized view of sales pe
 
 ## 👩‍💻 Author
 
-**Nilofer Syed**
-
-If you found this project helpful, feel free to ⭐ this repository and connect with me on LinkedIn!
-
-If you found this project interesting, feel free to ⭐ the repository or connect with me on LinkedIn.
+**Buvananand Vendotha**
